@@ -1,5 +1,7 @@
 # Visual Question Answering with Module Networks
 
+![alt text](https://github.com/omar-florez/VQA-ModuleNetworks/blob/master/output/00000076.jpg)
+
 This work visualizes is based on [1](https://github.com/ronghanghu/n2nmn) and visualizes the Question Answering capabilities of Module Networks. Language guides the generation of neural architectures that maximizes the likelihood of answering a question correctly when correlated with visual embeddings.  
 
 * A seq2seq architecture translates open questions into a sequence of available modules (Age, Gender, Emotion, Find, Transform, Locate, And, Describe, etc.) whose In-order traversal represents a hierarchical relation between modules. 25,050 unique questions generate hierarchical module networks. Some modules receive visual and language features while others receive attention maps.
