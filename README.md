@@ -1,6 +1,6 @@
 # Visual Question Answering with Module Networks
 
-![](https://github.com/omar-florez/VQA-ModuleNetworks/blob/master/output/VQA3.gif | width=100)
+![.](https://github.com/omar-florez/VQA-ModuleNetworks/blob/master/output/VQA3.gif | width=100)
 
 This work visualizes is based on [1](https://github.com/ronghanghu/n2nmn) and visualizes the Question Answering capabilities of Module Networks. Language guides the generation of neural architectures that maximizes the likelihood of answering a question correctly when correlated with visual embeddings.  
 
