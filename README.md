@@ -8,8 +8,10 @@ This work visualizes is based on [1](https://github.com/ronghanghu/n2nmn) and vi
 
 * The *res5c* layer from [ResNet-152](https://github.com/KaimingHe/deep-residual-networks) pretrained on ImageNET produces embeddings vectors of (1, 14, 14, 2048).
 
+<p align="center">
 <img src="https://github.com/omar-florez/VQA-ModuleNetworks/blob/master/output/Untitled2.png" width="400"><img src="https://github.com/omar-florez/VQA-ModuleNetworks/blob/master/output/Untitled3.png" width="400">
-
+</p>
+  
 [1] R. Hu, J. Andreas, M. Rohrbach, T. Darrell, K. Saenko, *Learning to Reason: End-to-End Module Networks for Visual Question Answering*. in arXiv preprint arXiv:1704.05526, 2017.
 ```
 @article{hu2017learning,
