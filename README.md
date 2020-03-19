@@ -12,6 +12,8 @@ This work is based on [1](https://github.com/ronghanghu/n2nmn) and visualizes th
 <img src="https://github.com/omar-florez/VQA-ModuleNetworks/blob/master/output/Untitled2.png" width="400"><img src="https://github.com/omar-florez/VQA-ModuleNetworks/blob/master/output/Untitled3.png" width="400">
 </p>
   
+<img src="https://github.com/omar-florez/VQA-ModuleNetworks/blob/master/output/VQA3.gif"> 
+  
  # Citation
 [1] R. Hu, J. Andreas, M. Rohrbach, T. Darrell, K. Saenko, *Learning to Reason: End-to-End Module Networks for Visual Question Answering*. in arXiv preprint arXiv:1704.05526, 2017.
 ```
